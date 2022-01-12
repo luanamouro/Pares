@@ -1,0 +1,14 @@
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.exe
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.deps.json
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.runtimeconfig.json
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.runtimeconfig.dev.json
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.dll
+C:\imersao_logica\Pares\Pares\bin\Debug\netcoreapp3.1\Pares.pdb
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.csproj.AssemblyReference.cache
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.AssemblyInfoInputs.cache
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.AssemblyInfo.cs
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.dll
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.pdb
+C:\imersao_logica\Pares\Pares\obj\Debug\netcoreapp3.1\Pares.genruntimeconfig.cache
